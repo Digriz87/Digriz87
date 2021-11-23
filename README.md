@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Viacheslav Protsenko</h1>
 <h3 align="center">A passionate java software developer in Ukraine</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=digriz87&label=Profile%20views&color=0e75b6&style=flat" alt="digriz87" /> </p>
+
+- 👯 I’m looking for a job **in Java Developer**
+
 - 📫 How to reach me **fiveadvert@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/viacheslav-p-2060a8138/](https://www.linkedin.com/in/viacheslav-p-2060a8138/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/viacheslav-p-2060a8138/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/viacheslav-p-2060a8138/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/viacheslav-p-2060a8138/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/viacheslav-p-2060a8138/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
