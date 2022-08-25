@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Viacheslav Protsenko</h1>
-<h3 align="center">A passionate java software developer in Ukraine</h3>
+<h3 align="center">A passionate java QA Automation in Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digriz87&label=Profile%20views&color=0e75b6&style=flat" alt="digriz87" /> </p>
 
-- 👯 I’m looking for a job **in Java Developer**
+- 👯 I’m looking for a job **in Java QA Automation**
 
 - 📫 How to reach me **fiveadvert@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/viacheslav-p-2060a8138/](https://www.linkedin.com/in/viacheslav-p-2060a8138/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/viacheslavprotsenko/](https://www.linkedin.com/in/viacheslavprotsenko/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
