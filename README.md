@@ -1,5 +1,9 @@
+![Software QA Engineer](https://media.licdn.com/dms/image/D4D16AQGU5sWVH4k3Uw/profile-displaybackgroundimage-shrink_350_1400/0/1701125015364?e=1709164800&v=beta&t=rekjeR3tOQW4qFDzZZ9iqPs3DOtPxWFzXOSnUIR6nGE)
+
 <h1 align="center">Hi 👋, I'm Viacheslav Protsenko</h1>
-<h3 align="center">A passionate java QA Automation</h3>
+<h3 align="center">A passionate Software QA Engineering </h3>
+
+[![Digriz’s github stats](https://github-readme-stats.vercel.app/api?username=Digriz87)](https://github.com/digriz87)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digriz87&label=Profile%20views&color=0e75b6&style=flat" alt="digriz87" /> </p>
 
